@@ -12,7 +12,7 @@
   - Bootstrap
   - Sass
   - jQuery
-- 🌱 I'm currently practicing my skills on big projects
+- 🌱 I'm currently practicing my skills on bigger projects
 - 📫 Reach me at <aabdamoh@gmail.com>
 
 #### Thanks for checking my page out, and I am looking forward to any discussions or advices 🤗🤗

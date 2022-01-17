@@ -15,7 +15,7 @@
 - 🌱 I'm currently practicing my skills on bigger projects
 - 📫 Reach me at <aabdamoh@gmail.com>
 
-#### Thanks for checking my page out, and I am looking forward to any discussions or advices 🤗🤗
+#### Thanks for checking out my page, and I am looking forward to any discussions or advices 🤗🤗
 
 <!--
 **abdo-kotb/abdo-kotb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

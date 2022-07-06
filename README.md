@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🤩 A Front-End Web Developer<br>⚡ I have a passion for web development and programming<br>🌱 Always learning new techs<br>📫 Reach me at aabdamoh@gmail.com<br>
+<img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" /> Check my [Portfolio](https://abdokotb.netlify.app/)<br>🤩 A Front-End Web Developer<br>⚡ I have a passion for web development and programming<br>🌱 Always learning new techs<br>📫 Reach me at aabdamoh@gmail.com<br>
 
 # 💻 Tech Stack:
 

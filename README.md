@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" /> Check my [Portfolio](https://abdokotb.netlify.app/)<br>🤩 A Full-Stack Web Developer<br>⚡ Currently learning: TypeScript, System Designs, Algorithms<br>🌱 Always learning new techs<br>📫 Reach me at aabdamoh@gmail.com<br>
+<img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" /> Check my [Portfolio](https://abdokotb.netlify.app/)<br>🤩 A Full-Stack Web Developer<br>⚡ Currently learning: WordPress, React Native, Algorithms<br>🌱 Always learning new techs<br>📫 Reach me at aabdamoh@gmail.com<br>
 
 # 💻 Tech Stack:
 
